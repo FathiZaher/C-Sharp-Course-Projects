@@ -66,7 +66,7 @@ class Program
     static void Main()
     {
         // Creating two Employee objects with different IDs, names will differ too
-        Employee emp1 = new Employee(101, "Fathi", "Zaher
+        Employee emp1 = new Employee(101, "Fathi", "Zaher");
         Employee emp2 = new Employee(102, "Mohamed", "Zaher");
 
         // Display the details of the first and second employee objects
